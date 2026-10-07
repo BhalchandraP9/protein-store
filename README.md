@@ -31,3 +31,6 @@ The app runs at http://localhost:5173
 ## Project status
 
 In development. Currently building the frontend foundation.
+
+
+## Screenshots
