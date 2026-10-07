@@ -14,13 +14,13 @@ function App() {
           Clean, lab-tested nutrition for people who take training seriously.
         </p>
 
-        <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
-          <button className="border border-white/30 bg-transparent ">
-           View Plans
-         </button>
-          <button className="mt-8 rounded-full bg-brand px-8 py-3 font-semibold transition hover:bg-brand/90 focus:outline-none focus-visible:ring-4 focus-visible:ring-brand/50">
-            Shop Now
-         </button>
+        <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:justify-center">
+          <button className="rounded-full bg-brand px-8 py-3 font-semibold transition hover:bg-brand/90 focus:outline-none focus-visible:ring-4 focus-visible:ring-brand/50">
+             Shop Now
+          </button>
+          <button className="rounded-full border border-white/30 bg-transparent px-8 py-3 font-semibold transition hover:bg-white/10 focus:outline-none focus-visible:ring-4 focus-visible:ring-white/30">
+             View Plans
+          </button>
         </div>
       </section>
     </main>
